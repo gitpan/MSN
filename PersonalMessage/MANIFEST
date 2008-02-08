@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+PersonalMessage.pm
+PersonalMessage.xs
+README
+test.pl
+msn.c
